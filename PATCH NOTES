@@ -1,3 +1,17 @@
+# Version 1.1.2 (10/6/23)
+
+Modified some UI icons
+
+Added Blood Icon
+
+Added Food Icon
+
+Added Water Icon
+
+Fixed a bug in the overlay where the Water Value was labeled as Growth
+
+Fixed a bug in which the link in the app info didn't do anything when pressed
+
 # Version 1.1.0 (9/28/23)
 
 Added an automatic side bar overlay when playing The Isle (MUST HAVE THE ISLE BE SET TO WINDOWED FULLSCREEN TO WORK)
