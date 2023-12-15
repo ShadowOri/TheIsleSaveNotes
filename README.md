@@ -3,14 +3,13 @@ An app for writing down all your dino saves for The Isle's servers instead of tr
 ## Main Menu
 <img width="946" alt="Screenshot 2023-09-23 112955" src="https://github.com/ShadowOri/TheIsleSaveInfo/assets/115419835/6b155692-2141-4736-8b85-38240cafd4aa">
 
-
 ## Example 1
-Utahraptor save
-<img width="951" alt="UtahExample" src="https://github.com/ShadowOri/TheIsleSaveNotes/assets/115419835/3c493620-1a69-4e25-b82b-37e3c76500e4">
+Spinosaurus save
+<img width="951" alt="Spino Example" src="https://github.com/ShadowOri/TheIsleSaveNotes/assets/115419835/d36ac0ff-8b05-4f31-8977-bc88868cb1fe">
 
 ## Example 2
 Tenontosaurus save
-<img width="951" alt="TenontoExample" src="https://github.com/ShadowOri/TheIsleSaveNotes/assets/115419835/0da4dc24-a00c-48c0-bc82-f5d36e0e4349">
+<img width="951" alt="Tenonto Example" src="https://github.com/ShadowOri/TheIsleSaveNotes/assets/115419835/0b3f5759-15a2-472e-a810-8c9349e41a66">
 
 ## Overlay Example 1
 Main Menu
